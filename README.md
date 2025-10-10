@@ -159,7 +159,7 @@ CREATE DATABASE taskmanager;
 **Gonzalo C.G.** - Desarrollador Full Stack  
 📧 [chicagodinogonzalo@gmail.com](chicagodinogonzalo@gmail.com)  
 🐙 [GitHub](https://github.com/gonzalocg123)  
-💼 [LinkedIn]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/))
+💼 [LinkedIn](https://www.linkedin.com/in/gonzalo-chica-godino-27710a33a/)
 
 ---
 
