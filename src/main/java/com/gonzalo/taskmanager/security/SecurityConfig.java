@@ -38,7 +38,7 @@ public class SecurityConfig {
         
         configuration.setAllowedOrigins(Arrays.asList(
             "http://localhost:5173",                    
-            "https://taskmanager-frontend-azure.vercel.app"
+            "https://taskmanager-frontend-zeta.vercel.app/"
         ));
         
         configuration.setAllowedMethods(Arrays.asList(
