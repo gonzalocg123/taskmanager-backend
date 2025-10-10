@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: taskmanager-backend
+    runtime: docker
+    plan: free
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: SPRING_DATASOURCE_URL
+        value: jdbc:mysql://root:FETRmjfZfCsBWxUMAXppRNgzHXpoibJz@turntable.proxy.rlwy.net:21073/railway
+      - key: SPRING_DATASOURCE_USERNAME
+        value: root
+      - key: SPRING_DATASOURCE_PASSWORD
+        value: FETRmjfZfCsBWxUMAXppRNgzHXpoibJz
+      - key: SPRING_JPA_HIBERNATE_DDL_AUTO
+        value: update
