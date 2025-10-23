@@ -5,25 +5,25 @@ Proporciona una API REST segura y escalable para el frontend desarrollado con **
 
 ---
 
-## 🌍 Demo API
+## Demo API
 
 API desplegada en **Render**  
 👉 [https://taskmanager-backend-megy.onrender.com](https://taskmanager-backend-megy.onrender.com/api)
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
-- ✅ CRUD completo de tareas 
-- ✅ Registro e inicio de sesión de usuarios  
-- ✅ Validación de datos y manejo de errores  
-- ✅ Persistencia en MySQL con **JPA + Hibernate**  
-- ✅ Configuración de **CORS** para el frontend  
-- ✅ Despliegue en **Render** con base de datos en **Railway**
+- CRUD completo de tareas 
+- Registro e inicio de sesión de usuarios  
+- Validación de datos y manejo de errores  
+- Persistencia en MySQL con **JPA + Hibernate**  
+- Configuración de **CORS** para el frontend  
+- Despliegue en **Render** con base de datos en **Railway**
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - **Java 17**  
 - **Spring Boot 3**  
@@ -36,7 +36,7 @@ API desplegada en **Render**
 
 ---
 
-## 🧱 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 📦 taskmanager-backend
@@ -56,7 +56,7 @@ API desplegada en **Render**
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 ### Archivo `application.properties`
 
@@ -71,7 +71,7 @@ server.port=8080
 
 ---
 
-## 🔐 Endpoints Principales
+## Endpoints Principales
 
 ### Usuarios
 | Método | Endpoint | Descripción |
@@ -89,7 +89,7 @@ server.port=8080
 
 ---
 
-## 🧩 Ejecución Local
+## Ejecución Local
 
 ### Requisitos
 - Java 17+
@@ -115,7 +115,7 @@ La API estará disponible en:
 
 ---
 
-## ☁️ Despliegue en Render
+## Despliegue en Render
 
 1. Conecta tu repositorio con Render.  
 2. Crea un nuevo servicio web:  
@@ -125,7 +125,7 @@ La API estará disponible en:
 
 ---
 
-## 🧠 Seguridad
+## Seguridad
 
 - Contraseñas cifradas con **BCrypt**  
 - Validación de datos en el backend  
@@ -134,7 +134,7 @@ La API estará disponible en:
 
 ---
 
-## 🧰 Solución de Problemas
+## Solución de Problemas
 
 ### Error de CORS
 Verifica que el frontend esté permitido:
@@ -163,7 +163,7 @@ CREATE DATABASE taskmanager;
 
 ---
 
-## 📝 Licencia
+## Licencia
 
 Distribuido bajo la licencia **MIT**.  
 Consulta el archivo `LICENSE` para más información.
@@ -174,6 +174,6 @@ Consulta el archivo `LICENSE` para más información.
 
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!  
 
-### ⚙️ Backend desarrollado con pasión por [Gonzalo C.G.](https://github.com/gonzalocg123)
+### Backend desarrollado por [Gonzalo C.G.](https://github.com/gonzalocg123)
 
 </div>
